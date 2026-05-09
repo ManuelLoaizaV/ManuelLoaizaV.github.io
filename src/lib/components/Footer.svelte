@@ -1,18 +1,18 @@
 <footer class="layout-md mt-20 text-lg flex flex-col">
   <div class="row">
-    <span>Twitter</span>
+    <span>Email</span>
     <hr />
-    <a class="link" href="https://twitter.com/ekzhang1">@ekzhang1</a>
+    <a class="link" href="mailto:maloaizav@gmail.com">maloaizav@gmail.com</a>
   </div>
   <div class="row">
     <span>GitHub</span>
     <hr />
-    <a class="link" href="https://github.com/ekzhang">@ekzhang</a>
+    <a class="link" href="https://github.com/ManuelLoaizaV">@ManuelLoaizaV</a>
   </div>
   <div class="row">
-    <span>Email</span>
+    <span>YouTube</span>
     <hr />
-    <a class="link" href="mailto:ekzhang1@gmail.com">ekzhang1@gmail.com</a>
+    <a class="link" href="https://www.youtube.com/@ManuelLoaizaV">@ManuelLoaizaV</a>
   </div>
 </footer>
 
