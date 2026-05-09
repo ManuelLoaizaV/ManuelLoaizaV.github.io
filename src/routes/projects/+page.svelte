@@ -61,7 +61,7 @@
 </script>
 
 <Seo
-  title="Eric Zhang – Projects"
+  title="Manuel Loaiza – Projects"
   description="Open-source software projects in systems, web development, computer graphics, music, programming languages, machine learning, and more."
 />
 
@@ -82,7 +82,7 @@
 
   <p class="text-lg">
     If you find something interesting,
-    <a class="link" href="mailto:ekzhang1@gmail.com?subject=Software%20Projects"
+    <a class="link" href="mailto:maloaizav@gmail.com?subject=Software%20Projects"
       >let me know</a
     >!
   </p>

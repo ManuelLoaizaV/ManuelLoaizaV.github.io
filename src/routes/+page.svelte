@@ -47,7 +47,7 @@
 </script>
 
 <Seo
-  title="Eric Zhang"
+  title="Manuel Loaiza"
   description="Software engineer, researcher, and designer. Making meaningful systems and interfaces for people."
 />
 
@@ -55,9 +55,8 @@
   class="layout-md text-black text-xl leading-tight font-light mb-16"
   id="eric-is"
 >
-  <span class="g">is a</span> software engineer<span class="g">,</span><br />
-  researcher<span class="g">, and</span><br />
-  designer<span class="g">.</span>
+  <span class="g">is a</span> software engineer<br />
+   <span class="g">and</span> mathematician<span class="g">.</span>
 </p>
 
 <div class="layout-md text-lg space-y-14">
@@ -163,7 +162,7 @@
   <div class="space-y-5">
     <!-- <p>This is what I look like:</p> -->
     <img
-      alt="Self-portrait photograph of Eric Zhang at his desk"
+      alt="Self-portrait photograph of Manuel Loaiza at his desk"
       src="/assets/images/profile5.jpg"
     />
   </div>
